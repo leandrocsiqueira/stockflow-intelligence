@@ -1,0 +1,3 @@
+com\leandro\stockflowintelligence\data\StockMovementCsvReaderTest.class
+com\leandro\stockflowintelligence\StockFlowIntelligenceApplicationTests.class
+com\leandro\stockflowintelligence\timeseries\DailyDemandSeriesBuilderTest.class

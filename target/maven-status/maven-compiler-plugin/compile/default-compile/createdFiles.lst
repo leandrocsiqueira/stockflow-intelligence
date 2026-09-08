@@ -1,0 +1,5 @@
+com\leandro\stockflowintelligence\timeseries\DailyDemand.class
+com\leandro\stockflowintelligence\StockFlowIntelligenceApplication.class
+com\leandro\stockflowintelligence\domain\StockMovement.class
+com\leandro\stockflowintelligence\timeseries\DailyDemandSeriesBuilder.class
+com\leandro\stockflowintelligence\data\StockMovementCsvReader.class
